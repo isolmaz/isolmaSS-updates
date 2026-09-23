@@ -1,0 +1,23 @@
+{
+  "version": "0.4.2",
+  "tag": "v0.4.2",
+  "source_commit": "79b1021fe316d717a72a99e80b8b75b5bdc742f4",
+  "release_url": "https://github.com/isolmaz/isolmaSS-updates/releases/tag/v0.4.2",
+  "pinned_public_key_sha256": "67906f6348c629e2c34c1cd849b742249bc32ebc104275a990bae5a7ddc2f20e",
+  "installer": {
+    "name": "isolmass-setup.exe",
+    "sha256": "17a61d8414ee9ef795e3ca5d8fffbe749afa20758cc667e2851dd6159c7f78b6",
+    "size": 444009
+  },
+  "installer_signature": {
+    "name": "isolmass-setup.exe.sig",
+    "sha256": "07428b51763f5304526577a29a996e2ae4c8df74893c29bf074672c11d5a1a23",
+    "size": 384,
+    "algorithm": "RSA-3072 PKCS1-v1_5 SHA-256"
+  },
+  "portable": {
+    "name": "isolmass-portable-windows-x64.zip",
+    "sha256": "0ca4cd6463dc9062d3cfced9d46e74da0f4f17ce34d61901a085c5139db10f4b",
+    "size": 460920
+  }
+}
