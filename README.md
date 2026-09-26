@@ -2,7 +2,7 @@
 
 Public Windows release repository for [isolmaSS](https://ss.isolmaz.com). It holds release metadata and signed binaries only; the application source lives in [`isolmaz/isolmaSS_V2`](https://github.com/isolmaz/isolmaSS_V2) and the publisher's private key is never stored here.
 
-Current release: **v0.5.6**. Download [`isolmass-setup.exe`](https://github.com/isolmaz/isolmaSS-updates/releases/latest/download/isolmass-setup.exe) for a per-user installation, or [`isolmass-portable-windows-x64.zip`](https://github.com/isolmaz/isolmaSS-updates/releases/latest/download/isolmass-portable-windows-x64.zip) for manual portable use. Asset hashes and the source commit are recorded in [`releases/v0.5.6.json`](releases/v0.5.6.json); each release has its own manifest in [`releases/`](releases/).
+Current release: **v0.5.7**. Download [`isolmass-setup.exe`](https://github.com/isolmaz/isolmaSS-updates/releases/latest/download/isolmass-setup.exe) for a per-user installation, or [`isolmass-portable-windows-x64.zip`](https://github.com/isolmaz/isolmaSS-updates/releases/latest/download/isolmass-portable-windows-x64.zip) for manual portable use. Asset hashes and the source commit are recorded in [`releases/v0.5.7.json`](releases/v0.5.7.json); each release has its own manifest in [`releases/`](releases/).
 
 isolmaSS captures a region or window, lets you mark it up, and copies, saves or uploads it. Upload sends the image to a Worker the app installs in your own Cloudflare account and shows the link in a small card with Copy and Open; the link is already on the clipboard. The publisher hosts no screenshots, and local capture needs no Cloudflare account.
 
